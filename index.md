@@ -1,5 +1,4 @@
 <table border="0">
-  <tr>
     <td width="75%">
       <h1>邹晋</h1>
       <p><b>本科</b></p>
@@ -10,6 +9,5 @@
     <td width="25%">
       <img src="/123.jpg" width="100%">    
     </td>
-  </tr>
-</table>
+  
 
